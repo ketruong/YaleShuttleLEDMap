@@ -1,0 +1,29 @@
+College/Wall (Northbound)
+Chemistry/225 Prospect (N) /SCL
+College/Wall (Southbound)
+Phelps Gate
+LEPH/60 College
+Union Station (Northbound)
+CSS
+25 Science Park
+Division/Prospect
+Amistad/Cedar
+State St Station
+Whitney/Audubon
+Yale Health Plan
+Court/Olive
+Olive/Chapel
+344 Winchester
+Chapel/Church
+TAC
+Chapel/College
+300 George
+College/Crown
+Prospect/Sachem
+Trumbull/Hillhouse
+Wall/Church
+Whitney/Grove
+Winchester/Tilton
+Winchester/Woodland
+Prospect/Hillside
+Winchester/Division

@@ -15,11 +15,9 @@ Adafruit_NeoPixel greenLineCE_blueLine = Adafruit_NeoPixel(107, 4, NEO_GRB + NEO
 Adafruit_NeoPixel orangeLine = Adafruit_NeoPixel(85, 5, NEO_GRB + NEO_KHZ800);
 Adafruit_NeoPixel redLine = Adafruit_NeoPixel(146, 6, NEO_GRB + NEO_KHZ800);
 */
-Adafruit_NeoPixel blue_dayline= Adafruit_NeoPixel(80, 2, NEO_GRB + NEO_KHZ800);
-Adafruit_NeoPixel red = Adafruit_NeoPixel(94, 3, NEO_GRB + NEO_KHZ800);
-Adafruit_NeoPixel ol = Adafruit_NeoPixel(99, 4, NEO_GRB + NEO_KHZ800);
-Adafruit_NeoPixel *strips[3] = {
-    &blue_dayline, &red, &ol
+Adafruit_NeoPixel blue_dayline= Adafruit_NeoPixel(90, 2, NEO_GRB + NEO_KHZ800);
+Adafruit_NeoPixel *strips[1] = {
+    &blue_dayline
 //  &greenLineD, &greenLineB, &greenLineCE_blueLine, &orangeLine, &redLine
 };
 
@@ -28,7 +26,7 @@ Adafruit_NeoPixel *strips[3] = {
 void setup() {
   pinMode(13,OUTPUT);
   Serial.begin(115200);
-  for(int i=0;i<3;i++) {
+  for(int i=0;i<5;i++) {
     strips[i]->begin();
     strips[i]->setPixelColor(0,0x664400);
     strips[i]->show();
@@ -47,11 +45,9 @@ void loop() {
       /*greenLineD.show();
       greenLineB.show();
       greenLineCE_blueLine.show();
-      
+      orangeLine.show();
       redLine.show();*/
       blue_dayline.show();
-      red.show(); 
-      ol.show();
     } else {
       // Just doing normal stuff
       packet[packet_index] = b;

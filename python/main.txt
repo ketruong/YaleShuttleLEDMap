@@ -1,0 +1,71 @@
+reset
+connecting to /dev/ttyACM0
+ready
+[('333 Cedar', 0), ('Orange/Humphrey (Southbound)', 34), ('Pierson Sage Garage', 68), ('Whitney/Cold Spring', 90)]
+333 Cedar
+Chapel/York
+College/Wall (Northbound)
+135 Prospect
+Chemistry/225 Prospect (N) /SCL
+Divinity/409 Prospect (Northbound)
+Prospect/Canner
+Whitney/Highland
+Whitney/Cottage
+Peabody Museum/ Whitney/Sachem
+Helen Hadley Hall
+College/Wall (Southbound)
+Phelps Gate
+LEPH/60 College
+Becton/15 Prospect
+Lot 22 (Whitney/Humphrey)
+Boyer Center
+Canner/Whitney
+Pierson Sage Garage
+Congress/Cedar
+129 York
+Prospect / Edwards (Yale Garden)
+300 George
+College/Crown
+Elm/York
+Prospect/Highland
+Whitney/Huntington
+Whitney/Linden
+Prospect / Trumbull
+Huntington / Edgehill
+Whitney/Cold Spring
+Whitney/Cold Spring
+Pierson Sage Garage
+Congress/Cedar
+129 York
+Prospect / Edwards (Yale Garden)
+300 George
+College/Crown
+Elm/York
+Prospect/Highland
+Whitney/Huntington
+Whitney/Linden
+Prospect / Trumbull
+Huntington / Edgehill
+[('333 Cedar', 0), ('Helen Hadley Hall', 28), ('Union Station (Southbound)', 74), ('81 George St.', 90)]
+333 Cedar
+Chapel/York
+College/Wall (Northbound)
+135 Prospect
+Peabody Museum/ Whitney/Sachem
+Helen Hadley Hall
+College/Wall (Southbound)
+Phelps Gate
+LEPH/60 College
+CSS
+Broadway/Park
+Lot 22 (Whitney/Humphrey)
+HGS/320 York
+PWG/Tower Pkwy
+Union Station (Southbound)
+Congress/Cedar
+129 York
+300 George
+College/Crown
+Elm/York
+Church/George
+starting web server...

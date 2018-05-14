@@ -9,14 +9,17 @@ This project aims to map the Yale Shuttle instead.
 
 ## The Map
 I based my map on this drawing of the Yale Shuttle which I found online.
-![Yale Shuttle](images/shuttlebasemap.jpg)
+<p align="center">
+<img src="images/shuttlebasemap.png" alt="Yale Shuttle" style="max-width: 20px; height: auto;" /></p>
 After some revisions in Illustrator, I chose to map only the 
 red, blue, and orange lines. 
-![Yale Shuttle](images/YaleShuttle.jpg)
+<p align="center">
+<img src="images/YaleShuttle.png" alt="Yale Shuttle" style="max-width: 20px; height: auto;" /></p>
 
 ## The Code 
 The main challenge was to integrate realtime tracking for the shuttle. 
 I used the Transloc API to track the shuttle.
 
 ## Final Product
-![LED](images/led.jpg)
+<p align="center">
+<img src="images/led.png" alt="led" style="max-width: 20px; height: auto;" /></p>

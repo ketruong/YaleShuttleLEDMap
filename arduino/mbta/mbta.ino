@@ -8,15 +8,6 @@ int total_bytes = 0;
 boolean is_running = 1;
 
 unsigned long last_data;
-/*
-Adafruit_NeoPixel greenLineD = Adafruit_NeoPixel(76, 2, NEO_GRB + NEO_KHZ800);
-Adafruit_NeoPixel greenLineB = Adafruit_NeoPixel(78, 3, NEO_GRB + NEO_KHZ800);
-Adafruit_NeoPixel greenLineCE_blueLine = Adafruit_NeoPixel(107, 4, NEO_GRB + NEO_KHZ800);
-Adafruit_NeoPixel orangeLine = Adafruit_NeoPixel(85, 5, NEO_GRB + NEO_KHZ800);
-Adafruit_NeoPixel redLine = Adafruit_NeoPixel(146, 6, NEO_GRB + NEO_KHZ800);
-*/
-
-
 
 // Yale Blue Day line 
 Adafruit_NeoPixel blue_dayline= Adafruit_NeoPixel(80, 2, NEO_GRB + NEO_KHZ800);

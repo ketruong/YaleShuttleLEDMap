@@ -9,10 +9,10 @@ This project aims to map the Yale Shuttle instead.
 
 ## The Map
 I based my map on this drawing of the Yale Shuttle which I found online.
-![Yale Shuttle](shuttlebasemap.jpeg)
+![Yale Shuttle](shuttlebasemap.jpg)
 After some revisions in Illustrator, I chose to map only the 
 red, blue, and orange lines. 
-![Yale Shuttle](YaleShuttle.jpeg)
+![Yale Shuttle](YaleShuttle.jpg)
 
 ## The Code 
 The main challenge was to integrate realtime tracking for the shuttle. 
